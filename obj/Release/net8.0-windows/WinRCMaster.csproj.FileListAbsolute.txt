@@ -1,0 +1,16 @@
+E:\nnyy\temp\project\c#\WinRCMaster\bin\Release\net8.0-windows\WinRCMaster.exe
+E:\nnyy\temp\project\c#\WinRCMaster\bin\Release\net8.0-windows\WinRCMaster.deps.json
+E:\nnyy\temp\project\c#\WinRCMaster\bin\Release\net8.0-windows\WinRCMaster.runtimeconfig.json
+E:\nnyy\temp\project\c#\WinRCMaster\bin\Release\net8.0-windows\WinRCMaster.dll
+E:\nnyy\temp\project\c#\WinRCMaster\bin\Release\net8.0-windows\WinRCMaster.pdb
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.Form1.resources
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.csproj.GenerateResource.cache
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.GeneratedMSBuildEditorConfig.editorconfig
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.AssemblyInfoInputs.cache
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.AssemblyInfo.cs
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.csproj.CoreCompileInputs.cache
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.dll
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\refint\WinRCMaster.dll
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.pdb
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\WinRCMaster.genruntimeconfig.cache
+E:\nnyy\temp\project\c#\WinRCMaster\obj\Release\net8.0-windows\ref\WinRCMaster.dll
